@@ -349,6 +349,7 @@ body {
   border: none;
   background-color: #151729;
   outline: none;
+  color: white;
 }
 .main__profile__right .shares {
   width: 100%;
